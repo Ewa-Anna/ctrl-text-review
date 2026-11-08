@@ -57,7 +57,7 @@ paginate:     5
 #   - vendor/gems/
 #   - vendor/ruby/
 destination: ./_site
-disqus: lyssaflynn
+disqus: ewaanna
 
 author:
-  name: Lyssa Flynn
+  name: Ewa Anna
